@@ -11,6 +11,14 @@ Gkey='' #Google api key
 
 ```
 
+## Example input file
+
+```
+VIA TEST  9 , 50145 - FIRENZE (FI)
+Piazza a caso 20 , 50063 - FIGLINE E INCISA VALDARNO (FI)
+
+```
+
 
 
 
